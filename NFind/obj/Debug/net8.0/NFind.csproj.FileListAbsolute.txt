@@ -1,0 +1,14 @@
+D:\Work_C#\test\NCommands\NFind\bin\Debug\net8.0\nfind.exe
+D:\Work_C#\test\NCommands\NFind\bin\Debug\net8.0\nfind.deps.json
+D:\Work_C#\test\NCommands\NFind\bin\Debug\net8.0\nfind.runtimeconfig.json
+D:\Work_C#\test\NCommands\NFind\bin\Debug\net8.0\nfind.dll
+D:\Work_C#\test\NCommands\NFind\bin\Debug\net8.0\nfind.pdb
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\NFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfoInputs.cache
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfo.cs
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\NFind.csproj.CoreCompileInputs.cache
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\nfind.dll
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\refint\nfind.dll
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\nfind.pdb
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\NFind.genruntimeconfig.cache
+D:\Work_C#\test\NCommands\NFind\obj\Debug\net8.0\ref\nfind.dll
