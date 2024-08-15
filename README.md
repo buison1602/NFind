@@ -1,4 +1,9 @@
-# NFind
+# HÃY ĐỌC KHÁI NIỆM VỀ Decorator Design Pattern TRƯỚC KHI ĐỌC CODE
+
+Đọc để hiểu hơn về Decorator Design Pattern
+https://viblo.asia/p/hieu-biet-co-ban-ve-decorator-pattern-pVYRPjbVG4ng
+
+----------------------
 
 ﻿Đặt lại giá trị cho agr là 
 
@@ -20,7 +25,6 @@ HOẶC
 
 Đặt lại giá trị cho idx ở file LineSourceFactory.cs là "int idx = path.LastIndexOf("\\");" để hiểu rõ hơn
 
-----------------------
 
-Đọc để hiểu hơn về decorator design pattern
-https://viblo.asia/p/hieu-biet-co-ban-ve-decorator-pattern-pVYRPjbVG4ng
+
+
