@@ -24,36 +24,3 @@ HOẶC
 
 Đọc để hiểu hơn về decorator design pattern
 https://viblo.asia/p/hieu-biet-co-ban-ve-decorator-pattern-pVYRPjbVG4ng
-
-
-                  			                  implement		       ( Component )			        implement
-                  		+ ----------------------------------> << Interface >> <-------------------------------- +					
-                      |			                  + ---------->   ILineSource        				                      |
-                      |			                  |								                                                |
-                      |			                  |								                                                |
-                      |			                  |								                                                |
-              (ConcreteComponent)	       (ConcreteComponent)						                                    (Decorator)
-              ConsoleLineSource	          FileLineSource							                                  FilteredLineSource
-                  		|			                  |							                                            #parent: ILineSource
-                  		|			                  |							                                                 /|\
-                  		|			                  |	        ( Biến parent dùng để gán instance của 		            |
-                  		|			                  |	        FileLineSource hoặc ConsoleLineSource	)		            |
-                  		+-----------------------+---------------------------------------------------------------+
-
-                    
-            		LineSourceFactory 
-            		+-- Return FileLineSource[]
-            		|
-            		+-- Return ConsoleLineSource[]
-
-
-
-
-
-
-
-
-
-
-
-   
